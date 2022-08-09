@@ -75,7 +75,7 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 ![Swagger](https://img.shields.io/badge/-Swagger-555?style=flat&logo=swagger)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-555?style=flat&logo=postman)&nbsp;
 
-## 📈 GitHub Activity Graph:
+<!-- ## 📈 GitHub Activity Graph:
 
 <table>
     <tr>
@@ -86,3 +86,4 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
         <td align="center"><a href="https://github.com/pullidea-dev#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pullidea-dev&theme=default"/></a><a href="https://github.com/pullidea-dev#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pullidea-dev&theme=tokyonight"/></a></td>
     </tr>   
 </table>
+ -->
