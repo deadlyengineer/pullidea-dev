@@ -1,9 +1,9 @@
 <p align="center">
-    <a href="https://github.com/tdev0923/tdev0923"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/tdev0923/tdev0923/graphs/contributors"><img src="https://img.shields.io/github/contributors/tdev0923/tdev0923?color=blue"></a>
-    <a href="https://github.com/tdev0923"><img src="https://img.shields.io/github/stars/tdev0923.svg?color=blue&logo=github"></a>
-    <a href="https://github.com/tdev0923/tdev0923/network/members"><img src="https://img.shields.io/github/forks/tdev0923/tdev0923.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=tdev0923.tdev0923" alt="visitors"/>
+    <a href="https://github.com/pullidea-dev/pullidea-dev"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/pullidea-dev/pullidea-dev/graphs/contributors"><img src="https://img.shields.io/github/contributors/pullidea-dev/pullidea-dev?color=blue"></a>
+    <a href="https://github.com/pullidea-dev"><img src="https://img.shields.io/github/stars/pullidea-dev.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/pullidea-dev/pullidea-dev/network/members"><img src="https://img.shields.io/github/forks/pullidea-dev/pullidea-dev.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=pullidea-dev.pullidea-dev" alt="visitors"/>
 </p>
 
 [![](./header_.png)](#)
@@ -79,10 +79,10 @@ I'm a Senior Full Stack Web & Blockchain Engineer who is a highly motivated pers
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tdev0923&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=tdev0923&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev0923&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tdev0923&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/pullidea-dev#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=pullidea-dev&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/pullidea-dev#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=pullidea-dev&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/pullidea-dev#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullidea-dev&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/pullidea-dev#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pullidea-dev&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/tdev0923#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=default"/></a><a href="https://github.com/tdev0923#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=tdev0923&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/pullidea-dev#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pullidea-dev&theme=default"/></a><a href="https://github.com/pullidea-dev#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=pullidea-dev&theme=tokyonight"/></a></td>
     </tr>   
 </table>
